@@ -1,5 +1,5 @@
 # CppCalc
 Simple calculator for linux programmend in c++
 
-#Usage/commands
+# Usage/commands
 Main command: cppcalc
