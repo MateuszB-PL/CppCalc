@@ -2,6 +2,9 @@
 #include <cmath>
 using namespace std;
 
+/*cppcalc 0.1*/
+
+
 int selector;
 float a, b, c;
 void ab(){
