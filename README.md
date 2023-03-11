@@ -6,8 +6,12 @@ Main command: cppcalc
 
 # Installation
 1. sudo ./install.sh
-2. open a ***new*** terminal
+2. open a **new** terminal
 
-_______________________________
+___
 
 Tested on fedora 37 linux with gnome-desktop
+___
+
+**cppcalc  v0.1**
+
