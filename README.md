@@ -10,7 +10,8 @@ Main command: cppcalc
 
 ___
 
-Tested on fedora 37 linux with gnome-desktop
+Tested on fedora 37 linux with gnome-desktop,
+Manjaro with KDE Plasma
 ___
 
 **cppcalc  v0.1**
