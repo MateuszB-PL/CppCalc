@@ -12,6 +12,8 @@ ___
 
 Tested on fedora 37 linux with gnome-desktop,
 Manjaro with KDE Plasma
+
+(if dont works try with different terminal)
 ___
 
 **cppcalc  v0.1**
