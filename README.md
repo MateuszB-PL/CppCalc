@@ -5,7 +5,7 @@ Simple calculator for linux programmed in c++
 Main command: cppcalc
 
 # Installation
-1. ./install.sh in directory of installer
+1. bash install.sh in directory of installer !!! RUN WITHOUT SUDO !!!
 2. open a **new** terminal
 
 ___
