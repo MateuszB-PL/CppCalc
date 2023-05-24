@@ -15,7 +15,7 @@ Tested on fedora 37 linux with gnome-desktop (gnome-terminal)
 (if dont works try with different terminal)
 ___
 
-Installer adds alias to .bashrc
+Installer adds alias to .bashrc and copies the files from install directory to /etc
 (If you want to suggest how to do a better installer please tell me)
 ___
 
