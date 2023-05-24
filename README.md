@@ -10,11 +10,13 @@ Main command: cppcalc
 
 ___
 
-Tested on fedora 37 linux with gnome-desktop (gnome-terminal),
-Manjaro with KDE Plasma (alacritty)
+Tested on fedora 37 linux with gnome-desktop (gnome-terminal)
 
 (if dont works try with different terminal)
-DONT WORKING ON KONSOLE-KDE
+___
+
+Installer adds alias to .bashrc
+(If you want to suggest how to do a better installer please tell me)
 ___
 
 **cppcalc  v0.1**
