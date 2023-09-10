@@ -4,6 +4,9 @@ Simple calculator for linux programmed in c++
 # Usage/commands
 Main command: cppcalc
 
+# Building / compiling
+Compile with g++ compiler
+
 # Installation
 1. bash install.sh in directory of installer !!! RUN WITHOUT SUDO !!!
 2. open a **new** terminal
