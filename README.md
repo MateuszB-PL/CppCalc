@@ -10,7 +10,7 @@ Compile with g++ compiler
 # Installation
 sudo bash install.sh in directory of installer, run as root
 
-# Uninstalling:
+# Uninstalling
 sudo rm -rf /bin/cppcalc
 ___
 
