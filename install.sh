@@ -1,9 +1,10 @@
 #!/bin/bash
 #installation script - DO NOT EDIT
-if [ "$EUID" -ne 0 ]
-  then sudo echo "installing in //etc" && sudo mkdir //etc/cppcalc && sudo cp -a install/resources //etc/cppcalc/ && cd ~ && echo "alias cppcalc='cd / && cd /etc/cppcalc/resources/ && ./calc'" >> .bashrc
+if [ "$EUID" = 0 ]
+  then echo "installing in /bin" && cp -a install/resources /bin/cppcalc/
+  echo "Succesfully installed"
   exit
 else
-  echo "run without root"
+  echo "run as root/sudo"
   exit
 fi
