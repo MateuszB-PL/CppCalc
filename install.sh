@@ -1,7 +1,7 @@
 #!/bin/bash
 #installation script - DO NOT EDIT
 if [ "$EUID" = 0 ]
-  then echo "installing in /bin" && cp -a install/resources /bin/cppcalc/
+  then echo "installing in /bin" && cp resources/cppcalc /bin/cppcalc/
   echo "Succesfully installed"
   exit
 else
