@@ -8,7 +8,10 @@ Main command: cppcalc
 Compile with g++ compiler
 
 # Installation
-bash install.sh in directory of installer, run as root
+sudo bash install.sh in directory of installer, run as root
+
+# Uninstalling:
+sudo rm -rf /bin/cppcalc
 ___
 
 Tested on fedora 37 linux
