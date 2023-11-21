@@ -12,8 +12,8 @@ sudo bash install.sh in directory of installer, run as root
 
 # Uninstalling
 sudo rm -rf /bin/cppcalc
-___
 
+# info
 Tested on fedora 37 linux
 ___
 
